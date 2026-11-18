@@ -1,6 +1,6 @@
 ﻿# LostFilm Desktop
 
-![Главный экран](docs/screenshot.png)
+![Главный экран](docs/screenshot-home.png)
 
 Неофициальный десктопный клиент LostFilm.TV для Windows на Kotlin + Compose Desktop.
 План и архитектура — в [PLAN.md](PLAN.md).
