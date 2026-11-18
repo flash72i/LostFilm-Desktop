@@ -1,0 +1,14 @@
+build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+
+tools/vlc/
+installer/obj/
+installer/src/out/
+installer/payload.zip
+
+*.log
+data/
+local.properties
